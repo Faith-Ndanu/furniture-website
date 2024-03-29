@@ -1,0 +1,134 @@
+#Navbar{
+    display: flex;
+    justify-content: center;
+    gap: 6%;
+
+}
+#topic{
+    background-image: url(images/living.jpg);
+    text-align: center;
+    font-size: x-large;
+    background-size: cover;
+    color: white;
+    height: 500px;
+    width: 800px;
+    justify-content: center;
+    margin-left: 600px;
+
+}
+#container1{
+    font-size: x-large;
+     text-align: center;
+    
+}
+#span{
+    color: coral;
+}
+#container2{
+    display: flex;
+    justify-content: center;
+    gap: 6%;
+}
+#container3{
+    text-align: center;
+    font-size: large;
+}
+#access1{
+    width: 150px;
+    height: 180px;
+}
+#accessories{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+#container4{
+    text-align: center;
+    font-size: large;
+}
+#context4{
+    display: flex;
+    justify-content: center;
+    gap: 6%;
+}
+#container5{
+    display: flex;
+    justify-content: center;
+    gap: 6%;
+}
+#container6{
+    justify-content: center;
+    display: flex;
+    gap: 6%;
+}
+#container7{
+    display: flex;
+    justify-content: center;
+    gap: 6%;
+    
+}
+#context7{
+    background-color: white;
+}
+#context8{
+    background-color: white;
+}
+#context13{
+    background-color: white;
+}
+#context9{
+    text-align: center;
+    font-size: larger;
+}
+#container8{
+    
+    background-color: coral;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+#container9{
+    text-align: center;
+    font-size: x-large;
+}
+#furnitureroom{
+    width:350px;
+    height: 450px;
+}
+#container10{
+    display: flex;
+    gap: 6%;
+    justify-content: center;
+
+}
+#context10{
+    display: flex;
+    gap: 3%;
+}
+#context11{
+    display: flex;
+    gap: 3%;
+}
+#context12{
+    display: flex;
+    gap: 3%;
+}
+#foot{
+    display: flex;
+    gap: 3%;
+}
+#dining-table{
+    width: 450px;
+    height: 550px;
+}
+#Footer{
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+    background-color: black;
+    color: white;
+
+}
+#context13{
+    text-align: center;
+}
